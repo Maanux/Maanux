@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 # Meu nome é Emanuel dos Santos Kanetchny
-Estudante entusiasta de desenvolvimento web e mobile, focado em um código limpo e atento a detalhes. Tenho conhecimento em JavaScript, Bootstrap, Materialize, React Native, Expo e Firebase. Estudei MySQL, Apache Xampp, Java Spring Boot (MVC), Docker e Nginx. Conheço todas as fases do desenvolvimento de software e estou sempre disposto a aprender novas tecnologias.
+Desenvolvedor focado em um código limpo e atento a detalhes. Tenho conhecimento em JavaScript, Bootstrap, Materialize, React Native, Expo e Firebase. Estudei MySQL, Apache Xampp, Java Spring Boot (MVC), Docker e Nginx. Conheço todas as fases do desenvolvimento de software e estou sempre disposto a aprender novas tecnologias.
 
 Atualmente, aprendi Spring com JPA, Spring Security, PostgreSQL, API REST e os princípios de arquitetura SOLID, consolidando minhas habilidades em desenvolvimento back-end.
 
-Busco uma oportunidade como estagiário ou programador júnior na área de back-end, com foco em Spring Boot e as tecnologias mencionadas, para aplicar meus conhecimentos em projetos desafiadores e contribuir para o desenvolvimento de soluções inovadoras.
+Busco uma oportunidade como programador júnior na área de back-end, com foco em Spring Boot e as tecnologias mencionadas, para aplicar meus conhecimentos em projetos desafiadores e contribuir para o desenvolvimento de soluções inovadoras.
 
 ## Socials
 
